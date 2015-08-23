@@ -1,0 +1,259 @@
+#Source,Group,Quest Set,Quest Name,XP,Arc Level,Quest Type Name
+CMWGE,"Example Quests","N/A","A New Hobby",35,1,Melodramatic
+CMWGE,"Example Quests","N/A","A New Hobby",35,2,Struggle
+CMWGE,"Example Quests","N/A","A New Hobby",35,2,Background
+CMWGE,"Example Quests","N/A","A New Hobby",35,3,Symbolic
+CMWGE,"Example Quests","N/A","A New Hobby",25,1,Exciting
+CMWGE,"Example Quests","N/A","A New Hobby",25,1,Background
+CMWGE,"Example Quests","N/A","A New Hobby",25,2,Melodramatic
+CMWGE,"Example Quests","N/A","A New Hobby",25,2,Struggle
+CMWGE,"Example Quests","N/A","A New Hobby",25,3,Symbolic
+CMWGE,"Example Quests","N/A","A New Job",35,1,Melodramatic
+CMWGE,"Example Quests","N/A","A New Job",35,2,Pastoral
+CMWGE,"Example Quests","N/A","A New Job",35,2,Symbolic
+CMWGE,"Example Quests","N/A","Bind",50,1,Paradigmatic
+CMWGE,"Example Quests","N/A","Bind",50,1,Background
+CMWGE,"Example Quests","N/A","Bind",50,2,Melodramatic
+CMWGE,"Example Quests","N/A","Bind",50,2,Pastoral
+CMWGE,"Example Quests","N/A","Bind",50,3,Melodramatic
+CMWGE,"Example Quests","N/A","Bind",50,4,Exciting
+CMWGE,"Example Quests","N/A","Bind",50,5,Paradigmatic
+CMWGE,"Example Quests","N/A","Bind",50,5,Lurid
+CMWGE,"Example Quests","N/A","Concentrated Awesome",20,2,Melodramatic
+CMWGE,"Example Quests","N/A","Concentrated Awesome",20,3,Pastoral
+CMWGE,"Example Quests","N/A","Concentrated Awesome",20,4,Paradigmatic
+CMWGE,"Example Quests","N/A","Concentrated Awesome",20,5,Struggle
+CMWGE,"Example Quests","N/A","Concentrated Awesome",20,5,Pastoral
+CMWGE,"Example Quests","N/A","Connecting With Someone",25,1,Pastoral
+CMWGE,"Example Quests","N/A","Connecting With Someone",25,2,Exciting
+CMWGE,"Example Quests","N/A","Connecting With Someone",25,2,Pastoral
+CMWGE,"Example Quests","N/A","Connecting With Someone",25,2,Symbolic
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,1,Lurid
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,1,Symbolic
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,2,Paradigmatic
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,3,Pastoral
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,4,Paradigmatic
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,4,Struggle
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,4,Melodramatic
+CMWGE,"Example Quests","N/A","The Door Into Memory",25,4,Symbolic
+CMWGE,"Example Quests","N/A","Mental Training",40,1,Paradigmatic
+CMWGE,"Example Quests","N/A","Mental Training",40,1,Melodramatic
+CMWGE,"Example Quests","N/A","Mental Training",40,1,Exciting
+CMWGE,"Example Quests","N/A","Mental Training",40,2,Exciting
+CMWGE,"Example Quests","N/A","Mental Training",40,2,Background
+CMWGE,"Example Quests","N/A","Mental Training",40,3,Melodramatic
+CMWGE,"Example Quests","N/A","Mental Training",40,3,Lurid
+CMWGE,"Example Quests","N/A","Mental Training",40,4,Melodramatic
+CMWGE,"Example Quests","N/A","Mental Training",40,5,Struggle
+CMWGE,"Example Quests","N/A","The Object",40,1,Struggle
+CMWGE,"Example Quests","N/A","The Object",40,1,Background
+CMWGE,"Example Quests","N/A","The Object",40,2,Melodramatic
+CMWGE,"Example Quests","N/A","The Object",40,4,Lurid
+CMWGE,"Example Quests","N/A","Physical Training",40,1,Exciting
+CMWGE,"Example Quests","N/A","Physical Training",40,1,Background
+CMWGE,"Example Quests","N/A","Physical Training",40,2,Struggle
+CMWGE,"Example Quests","N/A","Physical Training",40,4,Melodramatic
+CMWGE,"Example Quests","N/A","Poisoned",35,3,Paradigmatic
+CMWGE,"Example Quests","N/A","Poisoned",35,3,Struggle
+CMWGE,"Example Quests","N/A","Poisoned",35,3,Lurid
+CMWGE,"Example Quests","N/A","Poisoned",35,3,Background
+CMWGE,"Example Quests","N/A","Poisoned",35,4,Exciting
+CMWGE,"Example Quests","N/A","Poisoned",35,4,Background
+CMWGE,"Example Quests","N/A","Poisoned",35,5,Melodramatic
+CMWGE,"Example Quests","N/A","Preparing for a Festival or Event",35,2,Melodramatic
+CMWGE,"Example Quests","N/A","Preparing for a Festival or Event",35,2,Pastoral
+CMWGE,"Example Quests","N/A","Preparing for a Festival or Event",35,3,Exciting
+CMWGE,"Example Quests","N/A","Preparing for a Festival or Event",35,3,Background
+CMWGE,"Example Quests","N/A","Taking Care of a Small Child",40,1,Struggle
+CMWGE,"Example Quests","N/A","Taking Care of a Small Child",40,2,Paradigmatic
+CMWGE,"Example Quests","N/A","Taking Care of a Small Child",40,2,Pastoral
+CMWGE,"Example Quests","N/A","Taking Care of a Small Child",40,5,Pastoral
+CMWGE,"Example Quests","N/A","Taking Care of a Small Child",40,5,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",20,1,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",20,1,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",40,1,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",20,1,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",40,1,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",20,1,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",40,1,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",20,1,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Science!",40,1,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",20,1,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",35,1,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",20,2,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",35,2,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",20,2,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",35,2,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",20,2,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Someone's in Trouble!",35,2,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",25,3,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",35,3,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",25,4,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",35,4,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",25,5,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",35,5,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",25,5,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Engineering!",35,5,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",20,1,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",35,1,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",20,4,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",35,4,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",20,4,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",35,4,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",20,5,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Above the Fray",35,5,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",25,3,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",40,3,Lurid
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",25,3,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",40,3,Exciting
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",25,3,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",40,3,Background
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",25,5,Paradigmatic
+CMWGE,"Example Quest Sets","A Scientific Adventure","Walking the Boundaries",40,5,Paradigmatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",20,1,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",35,1,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",20,1,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",35,1,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",20,4,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",35,4,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",20,4,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Adventure GET",35,4,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",20,2,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",35,2,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",20,2,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",35,2,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",20,2,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",35,2,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",20,2,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Let's Doing!",35,2,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",25,2,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",35,2,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",25,3,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",35,3,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",25,3,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",35,3,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",25,5,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Labyrinth Diving",35,5,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",25,4,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",35,4,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",25,3,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",35,3,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",25,5,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",35,5,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",25,5,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Climbing the Sacred Mountain",35,5,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",35,1,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",45,1,Pastoral
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",35,1,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",45,1,Symbolic
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",35,4,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",45,4,Struggle
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",35,5,Melodramatic
+CMWGE,"Example Quest Sets","Looking for Trouble","Down",45,5,Melodramatic
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",25,1,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",35,1,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",25,1,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",35,1,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",25,1,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",35,1,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",25,2,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","Changes",35,2,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",20,1,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",35,1,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",20,2,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",35,2,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",20,2,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",35,2,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",20,3,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","The Refusal of the Call",35,3,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",20,2,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",25,2,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",45,2,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",20,2,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",25,2,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",45,2,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",20,2,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",25,2,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",45,2,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",20,3,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",25,3,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","The Belly of the Whale",45,3,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",25,4,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",45,4,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",25,4,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",45,4,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",25,4,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",45,4,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",25,4,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","The Trials of the Sun",45,4,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",20,5,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",45,5,Struggle
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",20,5,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",45,5,Lurid
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",20,5,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",45,5,Setting
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",20,5,Symbolic
+CMWGE,"Example Quest Sets","A Heroic Journey","Apotheosis",45,5,Symbolic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",20,1,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",35,1,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",20,1,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",35,1,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",20,1,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",35,1,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",20,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",35,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",20,2,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Beautiful and Far Away",35,2,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",20,1,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",35,1,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",20,2,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",35,2,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",20,2,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",35,2,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",20,3,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Fascinating",35,3,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",25,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",35,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",25,3,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",35,3,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",25,3,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",35,3,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",25,3,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",35,3,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",25,4,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",35,4,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",25,4,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",35,4,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",25,4,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is So Surreal",35,4,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",35,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,3,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",35,3,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,3,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",35,3,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,3,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,3,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",35,3,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,4,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",35,4,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,4,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",35,4,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",20,4,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","This is Such a Bad Idea",35,4,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",20,3,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",45,3,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",20,4,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",45,4,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",20,5,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",45,5,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",20,5,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","You've Lost Them",45,5,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",25,2,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",45,2,Exciting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",25,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",45,2,Melodramatic
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",25,2,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",45,2,Pastoral
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",25,2,Setting
+CMWGE,"Example Quest Sets","A Bittersweet Saga","Something Heals",45,2,Setting

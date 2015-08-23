@@ -1,0 +1,194 @@
+digraph "Chuubo Concept Map"
+{
+	edge [decorate];
+
+	subgraph cluster_people {
+		label="Real People Involved";
+		HG;
+		Player;
+		Group;
+	}
+
+	Group -> HG [headlabel="  1"];
+	Group -> Player [headlabel="  +"];
+	HG -> Game [label="runs"];
+	Player -> Game [label="plays"];
+
+	Game -> Setting [label="has a"];
+	Setting -> Region [label="contains", headlabel="  +"];
+	Region -> Festival [label="has", headlabel="*"];
+	Setting -> Character [label="contains", headlabel="  +"];
+	Character -> Family [label="belongs to", headlabel="     0-1"];
+	Town -> Setting [label="is a"];
+
+	subgraph cluster_setting {
+		 label="Setting";
+		 Campaign;
+		 Setting;
+		 Region;
+		 Festival;
+		 Family;
+		 Town;
+	}
+
+	subgraph cluster_playing {
+		label="Structure of Play";
+		Game;
+		Session;
+		Book;
+		Chapter;
+		Scene;
+		Genre;
+		"Power Level";
+		Mortal;
+		Miraculous;
+	}
+
+	Game -> Campaign [label="instantiates", dir="back"];
+	Campaign -> Session [label="plays out\nin real time\n in"];
+	Campaign -> Book [label="plays out\nin game time\n in"];
+	Book -> Chapter [label="divides into"];
+	Chapter -> Scene [label="divides into"];
+
+	Campaign -> Genre [label="has a"];
+	Campaign -> Region [label="takes place in"];
+	Campaign -> "Power Level" [label="has a"];
+	Mortal -> "Power Level" [label="is a"];
+	Miraculous -> "Power Level" [label="is a"];
+
+	Player -> "Player\nCharacter" [label="has a"];
+	Character -> "Player\nCharacter" [label="is a kind of", arrowtail=empty, dir=back];
+
+	Group -> Quest [label="plays through", headlabel="  0-2"];
+	Player -> Arc [label="plays through", headlabel="  *"];
+	Arc -> Quest [label="consists of", headlabel="      3-5"];
+	Arc -> Genre [label="has a?"];
+	Quest -> Genre [label="has a?"];
+
+	"Player\nCharacter" -> Action [label="takes"];
+	Genre -> "Action Type" [label="favours", headlabel="      ~3-5"];
+	Action -> "Action Type" [label="has a"];
+
+	subgraph cluster_xp {
+		label="XP";
+		XP;
+		"Action XP";
+		"Emotion XP";
+		"Bonus/Quest XP";
+	}
+
+	XP -> Quest [label="progresses"];
+	XP -> "Action XP" [label="is a kind of", arrowtail=empty, dir=back];
+	Action -> "Action XP" [label="gives"];
+	XP -> "Emotion XP" [label="is a kind of", arrowtail=empty, dir=back];
+	Emote -> "Emotion XP" [label="gives"];
+	XP -> "Bonus/Quest XP" [label="is a kind of", arrowtail=empty, dir=back];
+	"Major Goals" -> "Bonus/Quest XP" [label="give"];
+	"Quest Flavor" -> "Bonus/Quest XP" [label="gives"];
+	Quest -> "Major Goals" [label="has", headlabel="*"];
+	Quest -> "Quest Flavor" [label="has", headlabel="*"];
+
+	Character -> Issue [label="has", headlabel="*"];
+	Issue -> Character [label="influences"];
+	Action -> Issue [label="may add points to"];
+	Issue -> MP [label="gives"];
+
+	subgraph cluster_traits {
+		label="Traits";
+		Trait;
+		Trait -> "Special Ability" [label="is a kind of", arrowtail=empty, dir=back];
+		Bond;
+		Affliction;
+		Trait -> Connection [label="is a kind of", arrowtail=empty, dir=back];
+		Trait -> Skill [label="is a kind of", arrowtail=empty, dir=back];
+		Shine;
+		Cool;
+		ssq [label="Superior Skill\nor Quality"];
+		Trait -> "Health Level" [label="is a kind of", arrowtail=empty, dir=back];
+		Trait -> MP [label="is a kind of", arrowtail=empty, dir=back];
+		Trait -> Will [label="is a kind of", arrowtail=empty, dir=back];
+		"Miraculous Will";
+	}
+
+	Character -> Skill [label="has", headlabel="+"];
+	Character -> Perk [label="has", headlabel="+"];
+	Character -> Connection [label="has", headlabel="*"];
+	Character -> Emote [label="has", headlabel="1"];
+	Player -> Emote [label="does"];
+	Player -> Emote [label="reacts to others'"];
+	Character -> "Health Level" [label="has", headlabel="+"];
+	Character -> MP [label="has", headlabel="+"];
+	Character -> Will [label="has", headlabel="8pt"];
+	Character -> "Miraculous Will" [label="has", headlabel="3pt"];
+	Will -> "Miraculous Will" [label="is an extra pool of", dir=back];
+
+	subgraph cluster_quests {
+		label="Quests and Arcs";
+		Quest;
+		"Basic Quest";
+		"Arc Quest";
+		Arc;
+		Perk;
+		"Major Goals";
+		"Quest Flavor";
+	}
+
+	Character -> "Basic Quest" [label="has", headlabel="1"];
+	Character -> "Arc Quest" [label="has", headlabel="1-3???"];
+	Quest -> "Basic Quest" [label="is a kind of", arrowtail=empty, dir=back];
+	Quest -> "Arc Quest" [label="is a kind of", arrowtail=empty, dir=back];
+	Character -> Arc [label="has", headlabel="1-2???"];
+	Character -> "Special Ability" [label="has", headlabel="2+"];
+	"Special Ability" -> Bond [label="is a kind of", arrowtail=empty, dir=back];
+	"Special Ability" -> Affliction [label="is a kind of", arrowtail=empty, dir=back];
+
+	subgraph cluster_actions {
+		label="Actions";
+		Action;
+		"Action Type";
+		"Magical Action";
+		Intention;
+		Opposition;
+		Obstacle;
+		Tool;
+		ej;
+	}
+
+	Character -> Action [label="takes", headlabel="0-2"];
+	Action -> Skill [label="is based on", headlabel="1"];
+	Action -> Will [label="expends", headlabel="0+"];
+	Intention -> Action [label="is an ongoing"];
+
+	Obstacle -> Action [label="opposes", headlabel="0-5pt"];
+	Tool -> Action [label="aids", headlabel="+1-5pt"];
+	Action -> Opposition [label="may face", headlabel="+1-5pt"];
+	ej [label="Edge"]; // to avoid confusion with Graphviz keyword!
+	ej -> Opposition [label="penalises", headlabel="0-5pt"];
+
+	Skill -> Cool [label="is a kind of", arrowtail=empty, dir=back];
+	Cool -> Opposition [label="defends against embarrassing", headlabel="0-5pt"];
+	Skill -> Shine [label="is a kind of", arrowtail=empty, dir=back];
+	Shine -> Skill [label="can replace others'"];
+
+	Action -> "Magical Action" [label="is a kind of", arrowtail=empty, dir=back];
+	Obstacle -> "Magical Action" [label="always exists for"];
+
+	Skill -> ssq [label="is a kind of", arrowtail=empty, dir=back];
+	ej -> ssq [label="exists for"];
+
+	Perk -> Trait [label="enhances"];
+	Quest -> Perk [label="grants"];
+	Arc -> Perk [label="grants???"];
+
+	// TODO:
+	Miracle;
+	Strike;
+	Auctoritas;
+	"Region Property";
+	Convention;
+	"Quest Miracle";
+	"Recharge Token";
+	"Accessory";
+	"Arc Trait";
+	"Miraculous Ability";
+}
